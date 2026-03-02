@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+💻 Aspiring Computer Science & AI Engineer  
+📚 DSA | Java | Problem Solving  
+🎯 Focused on building strong fundamentals & writing clean code  
+🚀 Consistent learner |   
+🎧 Vibe Coding + Logical Thinking  
 <!--
 **divyansh23-gupta/divyansh23-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
