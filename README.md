@@ -1,20 +1,12 @@
-## Hi there 👋
+Hey there 👋
+
 💻 Aspiring Computer Science & AI Engineer  
 📚 DSA | Java | Problem Solving  
-🎯 Focused on building strong fundamentals & writing clean code  
-🚀 Consistent learner |   
-🎧 Vibe Coding + Logical Thinking  
+🌐 Web Dev: HTML | CSS | JavaScript | React  
+🛠️ Tech Stack: Java | Python | Git | GitHub  
+🎧 Vibe Coding while building strong fundamentals  
+🎯 Focused on writing clean & efficient code  
+🚀 Consistent learner |
 <!--
 **divyansh23-gupta/divyansh23-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
